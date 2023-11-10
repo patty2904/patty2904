@@ -18,8 +18,7 @@
 	</a>
 	&emsp;
 	<a href='#'>
-		<img src='https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white' alt='Swift'>
-		
+		<img src='https://img.shields.io/badge/code-swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white' alt='code-swift'>
 	</a>
 	&emsp;
 	<a href='#'>
